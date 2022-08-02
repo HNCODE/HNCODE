@@ -35,12 +35,7 @@ My Project information is available [here](projects.md).
 </ul>
 
 ### Languages & Developing
-<br/>
-<section>
-  <a href="https://github.com/HNCODE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNCODE&layout=compact" />
-  </a>
-</section>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HNCODE&show_icons=true&theme=tokyonight&layout=compact)<br/>
 
 > Even if you are not good at programming, it is better to try.<br/>
 > Anything will be possible if you have the will to do it.<br/>
