@@ -33,7 +33,7 @@ My Project information is available [here](projects.md).
   </li>
 </ul>
 ### Languages & Developing
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=HNCODE&theme=tokyonight&layout=compact)<br/>
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=HNCODE&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/>
 > I think that's enough even if I'm not good at programming!<br/>
 > Programming is a place where you can create everything with will.<br/>
 
