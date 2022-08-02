@@ -41,7 +41,8 @@ My Project information is available [here](projects.md).
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNCODE&layout=compact" />
   </a>
 </section>
-> I think that's enough even if I'm not good at programming!<br/>
+> Even if you are not good at programming, it is better to try.<br/>
+> Anything will be possible if you have the will to do it.<br/>
 
 <table>
     <thead>
