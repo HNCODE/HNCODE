@@ -25,15 +25,22 @@ I am a farmer who is studying development on his own.
 My Project information is available [here](projects.md).
 
 ## How to contact me:
+
 <ul>
-  <li>
-      <a href="https://discord.com">
+    <li>
+    <a href="https://discord.com">
       <img src="https://img.shields.io/badge/-나를위한소녀-7289da?logo=Discord&logoColor=white&link=https://discord.com" />
     </a>
   </li>
 </ul>
+
 ### Languages & Developing
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=HNCODE&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/>
+<br/>
+<section>
+  <a href="https://github.com/HNCODE">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNCODE&layout=compact" />
+  </a>
+</section>
 > I think that's enough even if I'm not good at programming!<br/>
 > Programming is a place where you can create everything with will.<br/>
 
