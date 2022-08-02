@@ -41,10 +41,10 @@ My Project information is available [here](projects.md).
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNCODE&layout=compact" />
   </a>
 </section>
+
 > Even if you are not good at programming, it is better to try.<br/>
 > Anything will be possible if you have the will to do it.<br/>
-> 바보네
-
+> 
 <table>
     <thead>
         <tr>
