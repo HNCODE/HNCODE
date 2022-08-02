@@ -62,8 +62,7 @@ My Project information is available [here](projects.md).
             <td>
              <ul>
                <li><b>Discord Bot</b></li>
-               <li><b>Android Application</b></li>
-               <li><del>iOS Application</del></li>
+               <li><b>Android(iOS) Application</b></li>
                <li><b>Website</b></li>
              </ul> 
           </td>
