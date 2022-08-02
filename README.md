@@ -41,6 +41,7 @@ My Project information is available [here](projects.md).
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNCODE&layout=compact" />
   </a>
 </section>
+I think that's enough even if I'm not good at programming!<br/>
 
 <table>
     <thead>
