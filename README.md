@@ -43,6 +43,7 @@ My Project information is available [here](projects.md).
 </section>
 > Even if you are not good at programming, it is better to try.<br/>
 > Anything will be possible if you have the will to do it.<br/>
+> 바보네
 
 <table>
     <thead>
