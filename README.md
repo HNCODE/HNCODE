@@ -29,7 +29,7 @@ My Project information is available [here](projects.md).
 <ul>
     <li>
     <a href="https://discord.com">
-      <img src="https://img.shields.io/badge/-나를위한소녀-7289da?logo=Discord&logoColor=white&link=https://discord.com" />
+      <img src="https://img.shields.io/badge/-리구르-4186da?logo=Discord&logoColor=white&link=https://discord.com" />
     </a>
   </li>
 </ul>
