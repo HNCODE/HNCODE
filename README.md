@@ -24,6 +24,9 @@ I am a farmer who is studying development on his own.
 ### My Project
 My Project information is available [here](projects.md).
 
+### My DISCORD Bot
+HanBot [here](https://discord.com/api/oauth2/authorize?client_id=826400818995134465&permissions=8&scope=bot%20applications.commands)
+
 ## How to contact me:
 
 <ul>
